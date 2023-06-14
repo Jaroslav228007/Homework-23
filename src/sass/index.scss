@@ -1,0 +1,12 @@
+@import './common';
+
+
+.ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    font-size: 25px;
+}
+.active {
+    color: blue;
+}  
